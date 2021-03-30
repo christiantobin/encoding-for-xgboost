@@ -1,8 +1,8 @@
-c1,c2,c3
-CA,CA,chr
-FL,,mike
-FL,FL,christian
-CA,FL,mik
-GA,MI,christia
-WA,FL,m
-CA,FL,mike
+c1,c2,c3,c4
+CA,CA,chr,A100
+FL,,mike,A101
+FL,FL,christian,A111
+CA,FL,mik,B100
+GA,MI,christia,B101
+WA,FL,m,B111
+CA,FL,mike,C100
